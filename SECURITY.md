@@ -9,7 +9,7 @@
 | 1.2-beta  | :white_check_mark: |
 | 1.0       | :x:                |
 | 1.1-beta  | :white_check_mark: |
-| < 1.1     | :x:                |
+| > 1.1     | :x:                |
 
 ## Reporting a Vulnerability
 
