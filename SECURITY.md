@@ -12,4 +12,4 @@
 | < 1.1-beta     | :x:                |
 
 ## Reporting a Vulnerability
-Report it in the issues tab
+Report it in the issues tab at https://github.com/natester605/natester605.github.io/issues
